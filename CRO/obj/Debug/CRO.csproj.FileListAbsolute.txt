@@ -1,0 +1,9 @@
+c:\users\matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CRO.csprojResolveAssemblyReference.cache
+c:\users\matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CRO.CRO_FORM.resources
+c:\users\matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CRO.Properties.Resources.resources
+c:\users\matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CRO.csproj.GenerateResource.Cache
+C:\Users\Matej\documents\visual studio 2015\Projects\CRO\CRO\bin\Debug\CROmentator.exe.config
+C:\Users\Matej\documents\visual studio 2015\Projects\CRO\CRO\bin\Debug\CROmentator.exe
+C:\Users\Matej\documents\visual studio 2015\Projects\CRO\CRO\bin\Debug\CROmentator.pdb
+C:\Users\Matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CROmentator.exe
+C:\Users\Matej\documents\visual studio 2015\Projects\CRO\CRO\obj\Debug\CROmentator.pdb
